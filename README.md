@@ -17,8 +17,3 @@ export default defineConfig({
   ]
 });
 ```
-
-## License
-
-[MIT](./LICENSE)
-"# vite-plugin-svelte-cjs" 
