@@ -7,7 +7,7 @@
 ```js
 // vite.config.js
 import { defineConfig } from 'vite';
-import { svelte } from '@sveltejs/vite-plugin-svelte';
+import { svelte } from 'vite-plugin-svelte-cjs';
 
 export default defineConfig({
   plugins: [
@@ -17,11 +17,6 @@ export default defineConfig({
   ]
 });
 ```
-
-## Documentation
-
-- [Plugin options](../../docs/config.md)
-- [FAQ](../../docs/faq.md)
 
 ## License
 
