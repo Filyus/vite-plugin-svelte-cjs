@@ -1,4 +1,4 @@
-# @sveltejs/vite-plugin-svelte
+# vite-plugin-svelte-cjs
 
 [Svelte](https://svelte.dev) plugin for [Vite](https://vitejs.dev) with CJS support.
 
